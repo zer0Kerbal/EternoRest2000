@@ -97,6 +97,9 @@
   * part name from SpaceVoffin --> rest-spacecoffin
   * [category] to Utility from Science
   * [entryCost] from 0 to 1000
+  * add
+    * [DRAG_CUBE]
+    * [ModuleCargoPart] = 375
 
 ### Compatibility 1.2.99.0
 
