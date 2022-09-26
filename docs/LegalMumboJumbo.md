@@ -22,10 +22,10 @@ updated: 15 May 2022
 ## Legal Mumbo Jumbo
 
 * Table of Contents
-  * [License](#License)
-  * [Previous License](#previous-license)
-  * [Forum Post #1](#Forum-I)
-  * [Forum Post #2](#Forum-II)
+  * [License(s)](#license)
+  * [Forum Post #1](#forum-i)
+  * [Forum Post #2](#forum-ii)
+  * [CurseForge](#curseforge)
 
 ### License
 
@@ -38,12 +38,17 @@ updated: 15 May 2022
 ### Forum I
 
 ![Forum](./LegalMumboJumbo/FORUM-01.png)
-[top](#Legal-Mumbo-Jumbo)
+[top](#legal-mumbo-jumbo)
 
 ### Forum II
 
 ![Forum](./LegalMumboJumbo/FORUM-02.png)
-[top](#Legal-Mumbo-Jumbo)
+[top](#legal-mumbo-jumbo)
+
+### CurseForge
+
+![CurseForge](./LegalMumboJumbo/FORUM-03.png)
+[top](#legal-mumbo-jumbo)
 
 ---
 
