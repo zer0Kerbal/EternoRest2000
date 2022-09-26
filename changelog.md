@@ -88,6 +88,20 @@
 * closes #7 - Create HeroLogo.png
 * closes #31 - Part Localization
 
+### Parts 1.2.99.0
+
+* Update pass
+* header
+* update
+  * file name from <part.cfg> --> <spacecoffin.cfg>
+  * part name from SpaceVoffin --> rest-spacecoffin
+  * [category] to Utility from Science
+  * [entryCost] from 0 to 1000
+
+### Compatibility 1.2.99.0
+
+* Add [KerbalAttachmentSystem.cfg] v1.0.0.0
+
 ### Update License
 
 * Updated License: GPL-2.0
