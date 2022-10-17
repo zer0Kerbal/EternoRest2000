@@ -204,6 +204,7 @@ parts, config
 
 [HLWN]: https://forum.kerbalspaceprogram.com/index.php?/topic/205185-*/ "Hallowe'en"
 [JACK]: https://forum.kerbalspaceprogram.com/index.php?/topic/189466-/* "Jack-O'Lantern"
+[REST]: https://forum.kerbalspaceprogram.com/index.php?/topic/209894-/* "Eterno-Rest 2000"
 
 [kas]: https://forum.kerbalspaceprogram.com/index.php?/topic/142594-*/ "Kerbal Attachment System"
 [mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
