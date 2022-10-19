@@ -64,7 +64,7 @@ Once you get it into space (and hopefully in a circular orbit) you can rename th
 ### Localization
 
 >* ![English][EN] English
->* ![Norsk][NO] Norwegian (Norsk) - thank you [tplive](https://github.com/tplive
+>* ![Norsk][NO] Norwegian (Norsk) - thank you [tplive](https://github.com/tplive)
 >* ***your translation here***
 >
 > HELP WANTED - See the [README in the Localization folder][lreadme] or the [Quickstart Guide][qstart] for instructions for adding or improving translations. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
