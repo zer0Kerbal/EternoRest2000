@@ -64,6 +64,7 @@ Once you get it into space (and hopefully in a circular orbit) you can rename th
 ### Localization
 
 >* ![English][EN] English
+>* ![Norsk][NO] Norwegian (Norsk) - thank you [tplive](https://github.com/tplive
 >* ***your translation here***
 >
 > HELP WANTED - See the [README in the Localization folder][lreadme] or the [Quickstart Guide][qstart] for instructions for adding or improving translations. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
@@ -92,6 +93,7 @@ or [![CKAN][ckan:img]][ckan:url]
 
 * [On Demand Fuel Cells (ODFC)][ODFC]
 * [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
+* [Kerbal Attachment System][kas]
 
 ### Tags
 
@@ -205,6 +207,7 @@ parts, config
 [JACK]: https://forum.kerbalspaceprogram.com/index.php?/topic/189466-/* "Jack-O'Lantern"
 [REST]: https://forum.kerbalspaceprogram.com/index.php?/topic/209894-/* "Eterno-Rest 2000"
 
+[kas]: https://forum.kerbalspaceprogram.com/index.php?/topic/142594-*/ "Kerbal Attachment System"
 [mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
 [mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
 

@@ -17,22 +17,18 @@ updated: 15 May 2022 -->
 
 [Home](./index.md)
 
-## Parts Catalog
+## Part Catalog
 
-This add-on adds nine (9) resource parts
-
----
-
-* Mallet *(Only with Kerbal Inventory System installed)*
-* SurveyStake
-
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/EternoRest2000/master/GameData/EternoRest2000/Parts/%40thumbs/ElMallet_icon.png" alt="Mallet" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/EternoRest2000/master/GameData/EternoRest2000/Parts/%40thumbs/ELSurveyStake_icon.png" alt="SurveyStake" width="25%" height="25%" />
-
-* MicroPad
-* OrbitalDock
+This add-on adds one (1) utility part
 
 ---
 
-[top](#Parts-Catalog)
+* Space Coffin
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/EternoRest2000/master/docs/%40thumbs/rest-spacecoffin_icon.png" alt="Eterno-Rest 2000" width="25%" height="25%" />
+
+---
+
+[top](#parts-catalog)
 
 <!-- this file CC BY-ND 4.0 by zer0Kerbal -->
