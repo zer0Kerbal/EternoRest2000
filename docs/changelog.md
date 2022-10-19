@@ -23,12 +23,14 @@ CC BY-ND 4.0 by zer0Kerbal
 | spacedock  | (https://spacedock.info/mod/3126)                                 |
 | ckan       | EternoRest2000                                                    |
 
-## Version 1.2.99.0-release `<Thank you Aphtonites and Acea_>`
+## Version 1.2.99.0-release `<Thank you Aphtonites, Acea_ and tplive>`
 
-* 25 Sep 2022
+* 15 Oct 2022
 * Released for Kerbal Space Program 1.12.3
 
 ### Adoption by zer0Kerbal
+
+adds <img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/NO.png " alt="Norsk" style="zoom:100%;" /> Norwegian (Norsk) - thank you <a ref="https://github.com/tplive"> tplive</a>
 
 ### Documentation 1.2.99.0
 
@@ -46,9 +48,16 @@ CC BY-ND 4.0 by zer0Kerbal
     * [PartsCatalog.md] v1.1.4.1
     * [Why.md] v1.1.0.0
 * closes #6 - Create GitHub Pages
+* closes #43 - Create Thumbs
 * Update
   * <EternoRest2000.version>
   * Remove [KSP_VERSION_MAX]
+* Add
+  * Hero.png
+  * @thumbs/
+    * add thumbnails
+* closes #7 - Create HeroLogo.png
+* closes #43 - Create Thumbs
 
 ### Asset Updates
 
@@ -82,23 +91,22 @@ CC BY-ND 4.0 by zer0Kerbal
 </details>
 * closes #37 - [ImgBot] Optimize images
 
-### Localization
+### Localization 1.2.99.0
 
 * Localize parts
 * Create Localization/
   * <en-us.cfg>
   * [readme.md] v2.1.2.0
   * [quickstart.md] v1.0.1.1
-* Hero.png
-* Thumbnails
-  * @thumbs/
-  * add thumbnails
-* closes #43 - Create Thumbs
+* Add
+  * Norwegian (Norsk)
+    * Localization/<no-no.cfg> v1.0.0.0
+    * Thank you [tplive](https://github.com/tplive)
 * closes #14 - English <us-en.cfg>
-* closes #13 - Localization - Master
+* closes #26 - Norwegian (Norsk) <no-no.cfg>
+* updates #13 - Localization - Master
 * closes #11 - Create <EternoRest2000>.cfg
 * closes #9 - Create Localization directory and contents
-* closes #7 - Create HeroLogo.png
 * closes #31 - Part Localization
 
 ### Parts 1.2.99.0
@@ -127,7 +135,7 @@ CC BY-ND 4.0 by zer0Kerbal
 ### Status 1.2.99.0
 
 * Issues
-  * closes #2 - Eterno-Rest 2000 (REST) 1.2.99.0-adoption `<Thank you Aphtonites and Acea_>` edition
+  * closes #2 - Eterno-Rest 2000 (REST) 1.2.99.0-adoption `<Thank you Aphtonites, Acea_ and tplive>` edition
   * closes #3 - 1.2.99.0 Create Legal Mumbo Jumbo
   * closes #4 - 1.2.99.0 Create Documentation
   * closes #5 - 1.2.99.0 Create Social Media Presence
