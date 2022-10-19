@@ -25,7 +25,7 @@ This add-on adds one (1) utility part
 
 * Space Coffin
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/EternoRest2000/master/GameData/EternoRest2000/Parts/%40thumbs/rest-spacecoffin_icon.png" alt="Eterno-Rest 2000" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/EternoRest2000/master/docs/%40thumbs/rest-spacecoffin_icon.png" alt="Eterno-Rest 2000" width="25%" height="25%" />
 
 ---
 
