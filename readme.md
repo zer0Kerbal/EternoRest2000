@@ -11,7 +11,7 @@ updated: 15 Sep 2022 -->
 
 # Eterno-Rest 2000 (REST)
 
-Tragic disasters happen in the world of rocketry now and then, give your highest achieving Kerbals the burial they deserve with this pressurized coffin!
+Tragic disasters happen in the world of rocketry now and then, give your highest achieving Kerbals the burial they deserve with this pressurized coffin! Now includes contract to launch a dead crew member into space.
 
 
 
