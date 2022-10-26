@@ -24,7 +24,7 @@ based upon work by LisiasT -->
 
 * Table of Contents)
   * [Contract](#contract)
-  * [Contract Complete](#contract-comple)
+  * [Contract Complete](#contract-complete)
   * [Professor rests among the stars](#professor-rests-among-the-stars)
 
 ### Contract
@@ -44,8 +44,8 @@ probe launched and the contract completed.
 ![Professor rests among the stars][IMG:contract:03]
 [top](#table-of-contents)
 
-[IMG:contract:1]: https://i.imgur.com/zqg2qcv.png "Mining Ore"
-[IMG:contract:2]: https://i.imgur.com/R6IYn5V.png "Refining Ore to Metal"
-[IMG:contract:3]: https://i.imgur.com/jhbus6m.png "Printing Rocketparts from Metal"
+[IMG:contract:01]: https://raw.githubusercontent.com/zer0Kerbal/EternoRest2000/master/docs/Contracts/CONTRACT-01.png "Sample Contract"
+[IMG:contract:02]: https://raw.githubusercontent.com/zer0Kerbal/EternoRest2000/master/docs/Contracts/CONTRACT-02.png "Contract Complete"
+[IMG:contract:03]: https://raw.githubusercontent.com/zer0Kerbal/EternoRest2000/master/docs/Contracts/CONTRACT-03.png "Professor rests among the stars"
 
 <!-- this file CC BY-ND 4.0 by zer0Kerbal -->
