@@ -22,7 +22,7 @@ based upon work by LisiasT -->
 
 ## Marketing Slicks
 
-* Table of Contents)
+* Table of Contents
   * [Contract](#contract)
   * [Contract Complete](#contract-complete)
   * [Professor rests among the stars](#professor-rests-among-the-stars)
