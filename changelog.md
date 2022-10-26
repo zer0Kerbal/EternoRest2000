@@ -10,6 +10,8 @@
 | spacedock  | (https://spacedock.info/mod/3126)                                 |
 | ckan       | EternoRest2000                                                    |
 
+[caerfinon](https://github.com/caerfinon)
+
 ## Version 1.2.99.0-release `<Thank you Aphtonites, Acea_ and tplive>`
 
 * 15 Oct 2022
