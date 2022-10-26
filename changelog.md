@@ -10,14 +10,29 @@
 | spacedock  | (https://spacedock.info/mod/3126)                                 |
 | ckan       | EternoRest2000                                                    |
 
+## Version 1.3.0.0-release `<caerfinon's contract>`
+
+* Released
+  * on 25 Oct 2022
+  * for Kerbal Space Program 1.12.3
+  * by zer0Kerbal
+
+### Changes
+
 [caerfinon](https://github.com/caerfinon)
+<InterSidera.cfg> v1.0.0.0
+add agent strings
+<en-us.cfg> v1.0.1.0
+<no-no.cfg> v1.0.1.0
 
 ## Version 1.2.99.0-release `<Thank you Aphtonites, Acea_ and tplive>`
 
-* 15 Oct 2022
-* Released for Kerbal Space Program 1.12.3
+* Released
+  * on 25 Oct 2022
+  * for Kerbal Space Program 1.12.3
+  * by zer0Kerbal
 
-### Adoption by zer0Kerbal
+### Changes
 
 adds <img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/NO.png " alt="Norsk" style="zoom:100%;" /> Norwegian (Norsk) - thank you <a ref="https://github.com/tplive"> tplive</a>
 
