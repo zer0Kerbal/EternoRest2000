@@ -41,6 +41,12 @@ updated: 03 Jun 2022
   <li><a href="(https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/)"><img border="0" alt="zer0Kerbal" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2018_08/free-clipart-hithhikers-guide-14.thumb.jpg.05fc7d1bdc37ce2bfca8923bf1e97303.jpg" width="50" height="50" > zer0Kerbal</a></li>
 </ul>
 
+### Contract(s)
+
+<ul>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/207619-*/"><img border="0" alt="caerfinon" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2022_09/wxImeeP2.thumb.jpg.fdf7794f6380664d5e14876b4232125e.jpg" width="50" height="50" > caerfinon</a></li>
+</ul>
+
 ### Special Thanks
 
 <ul>
