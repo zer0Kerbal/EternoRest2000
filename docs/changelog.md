@@ -23,12 +23,47 @@ CC BY-ND 4.0 by zer0Kerbal
 | spacedock  | (https://spacedock.info/mod/3126)                                 |
 | ckan       | EternoRest2000                                                    |
 
+## Version 1.3.0.0-release `<caerfinon's contract>`
+
+* Released
+  * 25 Oct 2022
+  * for Kerbal Space Program 1.12.3
+  * by zer0Kerbal
+
+### Add
+
+* <InterSidera.cfg> v1.0.0.0
+  * Add contract to launch a dead crew member into space
+  * Parameters:
+    * Contract looks for dead crew members and selects one at random to send into space.
+    * On successful completion of the orbit the dead Kerbal has it's type changed from crew to unowned.
+    * This has the effect of making the dead Kerbal invisible in the astronaut complex and unelectable for future runs of this contract
+    * The Kerbal still remains in the roster in the persistent.sfs file.
+  * thank you to [caerfinon](https://github.com/caerfinon)
+  * needs to be localized
+  * closes #50 - Contract to Launch a dead crew member into space
+  * updates #51 - Localize contract
+* Agent strings
+  * <en-us.cfg> v1.0.1.0
+  * <no-no.cfg> v1.0.1.0
+  * updates #13 - Localization - Master
+
+### Status 1.3.0.0
+
+* Issues
+  * closes #48 - Eterno-Rest 2000 (REST) 1.3.0.0-release `<caerfinon's contract>` edition
+  * closes #49 - 1.3.0.0 Additional Tasks
+
+---
+
 ## Version 1.2.99.0-release `<Thank you Aphtonites, Acea_ and tplive>`
 
-* 15 Oct 2022
-* Released for Kerbal Space Program 1.12.3
+* Released
+  * 15 Oct 2022
+  * for Kerbal Space Program 1.12.3
+  * by zer0Kerbal
 
-### Adoption by zer0Kerbal
+### Changes
 
 adds <img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/NO.png " alt="Norsk" style="zoom:100%;" /> Norwegian (Norsk) - thank you <a ref="https://github.com/tplive"> tplive</a>
 
