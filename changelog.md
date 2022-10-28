@@ -137,7 +137,7 @@ adds <img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/im
 * header
 * update
   * file name from <part.cfg> --> <spacecoffin.cfg>
-  * part name from SpaceVoffin --> rest-spacecoffin
+  * part name from SpaceCoffin --> rest-spacecoffin
   * [category] to Utility from Science
   * [entryCost] from 0 to 1000
   * add
