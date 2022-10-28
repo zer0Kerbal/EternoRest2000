@@ -10,7 +10,32 @@
 | spacedock  | (https://spacedock.info/mod/3126)                                 |
 | ckan       | EternoRest2000                                                    |
 
-## Version 1.3.0.0-release `<caerfinon's contract>`
+## Version 1.3.0.1-release `<Fine Print>`
+
+* Released
+  * 25 Oct 2022
+  * for Kerbal Space Program 1.12.3
+  * by zer0Kerbal
+
+### Update
+
+* <InterSidera.cfg> v1.0.1.0
+  * Remove Gender identifiers that were imbedded in the Kerbal name where it appears on screen
+  * Change the part validation to use the new part name "rest-spacecoffin"
+  * thank you to [caerfinon](https://github.com/caerfinon)
+  * needs to be localized
+* updates #51 - Localize contract
+* closes #57 - Update Contract
+
+### Status 1.3.0.1
+
+* Issues
+  * closes #55 - Eterno-Rest 2000 (REST) 1.3.0.1-release `<Fine Print>` edition
+  * closes #56 - 1.3.0.1 Additional Tasks
+
+---
+
+## Version 1.3.0.0-release `<Caerfinon's contract>`
 
 * Released
   * 25 Oct 2022
