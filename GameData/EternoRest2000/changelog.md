@@ -23,7 +23,7 @@
   * Brazilian Portuguese (Português Brasil)
     * Localization/<pr-br.cfg> v1.0.0.0
     * Thank you [Lisias](https://github.com/Lisias)
-
+  * closes #15 - Brazilian Portuguese (Português Brasil) <pt-br.cfg>
 
 ### Status 1.3.0.2
 
