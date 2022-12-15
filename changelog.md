@@ -10,6 +10,29 @@
 | spacedock  | (https://spacedock.info/mod/3126)                                 |
 | ckan       | EternoRest2000                                                    |
 
+## Version 1.3.0.2-release `<Letras Miúdas>`
+
+* Released
+  * 14 Dec 2022
+  * for Kerbal Space Program 1.12.4
+  * by zer0Kerbal
+
+### Summary 1.3.0.2
+
+* Add
+  * Brazilian Portuguese (Português Brasil)
+    * Localization/<pr-br.cfg> v1.0.0.0
+    * Thank you [Lisias](https://github.com/Lisias)
+  * closes #15 - Brazilian Portuguese (Português Brasil) <pt-br.cfg>
+
+### Status 1.3.0.2
+
+* Issues
+  * closes #61 - Eterno-Rest 2000 (REST) 1.3.0.2-release `<Letras Miúdas>` edition
+  * closes #62 - 1.3.0.2 Additional Tasks
+
+---
+
 ## Version 1.3.0.1-release `<Fine Print>`
 
 * Released
