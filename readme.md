@@ -53,9 +53,9 @@ Once you get it into space (and hopefully in a circular orbit) you can rename th
 ### Help Wanted
 
 > * Compatibility patches
-> * Contracts for these glorious parts
+> * ~~Contracts for these glorious parts~~
 > * Variant Textures
-> * Model updates to Unity 2019
+> * Model updates
 > * Marketing Images and Videos such as hero shots, animated gifs, short highlights
 > * Have a request? Glad to have them, kindly submit through [GitHub][MOD:issue].
 
@@ -64,6 +64,7 @@ Once you get it into space (and hopefully in a circular orbit) you can rename th
 ### Localization
 
 >* ![English][EN] English
+>* ![Português Brasil][BR] Brazilian Portuguese (Português Brasil) - thank you [Lisias](https://github.com/Lisias)
 >* ![Norsk][NO] Norwegian (Norsk) - thank you [tplive](https://github.com/tplive)
 >* ***your translation here***
 >
