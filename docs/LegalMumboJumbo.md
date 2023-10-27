@@ -33,7 +33,7 @@ updated: 15 May 2022
 [top](#legal-mumbo-jumbo)
 
 [Previous License](./LegalMumboJumbo/PrevLicense.md)
-[top](#Legal-Mumbo-Jumbo)
+[top](#legal-mumbo-jumbo)
 
 ### Forum I
 
@@ -52,4 +52,4 @@ updated: 15 May 2022
 
 ---
 
-<!-- this file CC BY-ND 4.0 by zer0Kerbal -->
+<!-- THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
