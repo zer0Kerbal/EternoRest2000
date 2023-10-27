@@ -48,4 +48,4 @@ probe launched and the contract completed.
 [IMG:contract:02]: https://raw.githubusercontent.com/zer0Kerbal/EternoRest2000/master/docs/Contracts/CONTRACT-02.png "Contract Complete"
 [IMG:contract:03]: https://raw.githubusercontent.com/zer0Kerbal/EternoRest2000/master/docs/Contracts/CONTRACT-03.png "Professor rests among the stars"
 
-<!-- this file CC BY-ND 4.0 by zer0Kerbal -->
+<!-- THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
