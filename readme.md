@@ -19,7 +19,7 @@ Tragic disasters happen in the world of rocketry now and then, give your highest
 
 <!-- adopted with *express* permission and brought to you by *KerbSimpleCo* -->
 
-<img src="https://raw.githubusercontent.com/zer0Kerbal/EternoRest2000/master/img/HeroLogo_1920x1920.png" alt="EternoRest2000 Hero" width="50%" height="50%">
+<img src="https://raw.githubusercontent.com/zer0Kerbal/EternoRest2000/master/img/HeroLogo.png" alt="Eterno-Rest 2000 (REST) Hero" width="50%" height="50%">
 
 ### Preamble by [Acea_][acea]
 
