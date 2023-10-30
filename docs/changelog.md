@@ -22,6 +22,27 @@ CC BY-ND 4.0 by zer0Kerbal
 | spacedock  | (https://spacedock.info/mod/3126)                                 |
 | ckan       | EternoRest2000                                                    |
 
+## Version 1.3.1.0-release `<Bulkheads>`
+
+* Released
+  * 29 Oct 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+<div style="border:0.5px solid Tomato; background-color: #bada55; color: #FF0000; text-align:center"><h4><b>For best results - DO A CLEAN INSTALL; DELETE EXISTING INSTALLATION THEN RE-INSTALL</b></h4><p>Download only from <a href="https://www.curseforge.com/kerbal/ksp-mods/EternoRest2000/files">CurseForge</a></p></div>
+
+## Change Summary
+
+* found the napping ending 's' in BulkheadProfiles and woke it up
+
+### Status 1.3.1.0
+
+* Issues
+  * closes #65 - Eterno-Rest 2000 (REST) 1.3.1.0-release `<Bulkhead>` edition
+  * closes #66 - 1.3.1.0 Additional Tasks
+  * closes #67 - [BUG] bulkheadProfile missing 's'
+
+---
+
 ## Version 1.3.0.2-release `<Letras Miúdas>`
 
 * Released
@@ -268,3 +289,4 @@ adds <img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/im
   * updates #8 - Archival Releases
 
 ---
+
