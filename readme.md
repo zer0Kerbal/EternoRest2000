@@ -1,13 +1,13 @@
-<!-- readme.md v1.6.9.8
+<!-- readme.md v1.6.7.0
 Eterno-Rest 2000 (REST)
 created: 17 Jul 2017
-updated: 15 Sep 2022 -->
+updated: 31 Oct 2023 -->
 
 <!--THIS FILE: CC BY-ND 4.0 by zer0Kerbal-->
 
-[![Eterno-Rest 2000][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
-[![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url] [![CKAN][ckan:shd]][ckan:url]   
-[![Pages][MOD:pages:shd]][MOD:pages]
+[![Eterno-Rest 2000][SHD:mod]][C:url] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
+[![Curseforge][C:shd]][C:url] [![GitHub][G:shd]][G:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url] [![CKAN][ckan:shd]][ckan:url]   
+[![Pages][SHD:pgs]][pages]
 
 # Eterno-Rest 2000 (REST)
 
@@ -23,7 +23,7 @@ Tragic disasters happen in the world of rocketry now and then, give your highest
 
 ### Preamble by [Acea_][acea]
 
-> All honors to [Aphtonites][Aphtonites], author of the original [Eterno-Rest 2000][MOD:forum] on SpacePort.
+> All honors to [Aphtonites][Aphtonites], author of the original [Eterno-Rest 2000][forum] on SpacePort.
 >
 > This is an UNOFFICIAL update version of that mod, a simple coffin model, used as a memorial of your brave Kermans who got KIA or MIA.
 
@@ -37,12 +37,12 @@ Once you get it into space (and hopefully in a circular orbit) you can rename th
 
 ### See more
 
->* [GitHub Pages][MOD:pages]
->* [Marketing Slicks][MOD:markt]
->* [Part Catalog][MOD:parts] for part pictures
->* [Discussions][MOD:discu] or [KSP Forums][MOD:forum] for discussions and news
->* [ChangeLog][MOD:chlog] for more details of changes
->* [Known Issues][MOD:issue] for more details of feature requests and known issues
+>* [GitHub Pages][pages]
+>* [Marketing Slicks][markt]
+>* [Part Catalog][parts] for part pictures
+>* [Discussions][discu] or [KSP Forums][forum] for discussions and news
+>* [ChangeLog][chlog] for more details of changes
+>* [Known Issues][issue] for more details of feature requests and known issues
 
 ---
 
@@ -57,7 +57,7 @@ Once you get it into space (and hopefully in a circular orbit) you can rename th
 > * Variant Textures
 > * Model updates
 > * Marketing Images and Videos such as hero shots, animated gifs, short highlights
-> * Have a request? Glad to have them, kindly submit through [GitHub][MOD:issue].
+> * Have a request? Glad to have them, kindly submit through [GitHub][issue].
 
 ---
 
@@ -68,7 +68,7 @@ Once you get it into space (and hopefully in a circular orbit) you can rename th
 >* ![Norsk][NO] Norwegian (Norsk) - thank you [tplive](https://github.com/tplive)
 >* ***your translation here***
 >
-> HELP WANTED - See the [README in the Localization folder][lreadme] or the [Quickstart Guide][qstart] for instructions for adding or improving translations. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
+> HELP WANTED - See the [README in the Localization folder][lreadme] or the [Quickstart Guide][qstart] for instructions for adding or improving translations. [GitHub][G:url] push is the best way to contribute. *Additions and corrections welcome!*
 
 ---
 
@@ -111,13 +111,13 @@ parts, config
 
 * [Aphtonites][aphtonites] for creating this glorious parts addon!
 * [Acea_][acea] for the picking up where [Aphtonites][aphtonites] left off
-* see [Attribution.md][MOD:attr] for more comprehensive list
+* see [Attribution.md][attr] for more comprehensive list
 
 ### Legal Mumbo Jumbo (License *provenance*)
 
 #### Current (2) - [`zer0Kerbal`][zer0Kerbal]
 
-> Forum: [Thread][MOD:forum] - Source: [GitHub][GITHUB:url]  
+> Forum: [Thread][forum] - Source: [GitHub][G:url]  
 > License: [![License][LIC:shd]][LIC:url] ![License][LIC:log]
 >
 > ##### Disclaimer(s)
@@ -125,16 +125,16 @@ parts, config
 > ***All bundled mods are distributed under their own licenses***  
 > ***All assets, including but not limited to: animations, models, sounds and textures are distributed under their own licenses***
 
-##### see [Notices.md][MOD:notic] for more *legal mumbo jumbo*
+##### see [Notices.md][notic] for more *legal mumbo jumbo*
 
 #### Original (1) - Author: [`Acea_`][acea]
 
-> Forum: [CurseForgeThread][MOD:1:thread] - Download: [CurseForge][MOD:1:dnload] - Source: [CurseForge][MOD:1:source]  
+> Forum: [CurseForgeThread][1:thread] - Download: [CurseForge][1:dnload] - Source: [CurseForge][1:source]  
 > License: [![License][LIC:1:shd]][LIC:1:url]
 
 #### Original (0) - Author: [`Aphtonites`][aphtonites]
 
-> Forum: [CurseForge][MOD:0:thread] - Download: [CurseForge][MOD:0:dnload] - Source: [CurseForge][MOD:0:source]  
+> Forum: [CurseForge][0:thread] - Download: [CurseForge][0:dnload] - Source: [CurseForge][0:source]  
 > License: [![License][LIC:0:shd]][LIC:0:url]
 
 ---
@@ -148,27 +148,27 @@ parts, config
 
 *and it is true.*
 <!-- mod links -->
-[MOD:attr]: https://zer0kerbal.github.io/EternoRest2000/Attributions "Attribution"
-[MOD:chlog]: https://raw.githubusercontent.com/zer0Kerbal/EternoRest2000/master/changelog.md  "Changelog"
-[MOD:discu]: https://github.com/zer0Kerbal/EternoRest2000/discussions "Discussions"
-[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/209894-*/ "EternoRest2000 Forum Thread"
-[MOD:issue]: https://github.com/zer0Kerbal/EternoRest2000/issues "Issues"
-[MOD:markt]: https://zer0kerbal.github.io/EternoRest2000/Marketing "Marketing Slicks"
-[MOD:notic]: https://zer0kerbal.github.io/EternoRest2000/Notices "Notices"
-[MOD:parts]: https://zer0kerbal.github.io/EternoRest2000/PartsCatalog "Parts Catalog"
-[MOD:pages]: https://zer0kerbal.github.io/EternoRest2000 "GitHub Pages"
+[attr]: https://zer0kerbal.github.io/EternoRest2000/Attributions "Attribution"
+[chlog]: https://raw.githubusercontent.com/zer0Kerbal/EternoRest2000/master/changelog.md  "Changelog"
+[discu]: https://github.com/zer0Kerbal/EternoRest2000/discussions "Discussions"
+[forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/209894-*/ "EternoRest2000 Forum Thread"
+[issue]: https://github.com/zer0Kerbal/EternoRest2000/issues "Issues"
+[markt]: https://zer0kerbal.github.io/EternoRest2000/Marketing "Marketing Slicks"
+[notic]: https://zer0kerbal.github.io/EternoRest2000/Notices "Notices"
+[parts]: https://zer0kerbal.github.io/EternoRest2000/PartsCatalog "Parts Catalog"
+[pages]: https://zer0kerbal.github.io/EternoRest2000 "GitHub Pages"
 
-[MOD:shd:latest]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/EternoRest2000/master/json/mod.json
-[MOD:pages:shd]: https://img.shields.io/badge/GitHub-Pages-white?style=plastic&labelColor=9cf&logoColor=181717&logo=github "GitHub IO"
+[SHD:mod]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/EternoRest2000/master/json/mod.json
+[SHD:pgs]: https://img.shields.io/badge/GitHub-Pages-white?style=plastic&labelColor=9cf&logoColor=181717&logo=github "GitHub IO"
 
 <!--- mod provenance -->
-[MOD:1:dnload]: https://www.curseforge.com/kerbal/ksp-mods/eterno-rest-2000-space-coffin-continued "CurseForge"
-[MOD:1:source]: https://www.curseforge.com/kerbal/ksp-mods/eterno-rest-2000-space-coffin-continued "CurseForge"
-[MOD:1:thread]: https://www.curseforge.com/kerbal/ksp-mods/eterno-rest-2000-space-coffin-continued "KSP Forum"
+[1:dnload]: https://www.curseforge.com/kerbal/ksp-mods/eterno-rest-2000-space-coffin-continued "CurseForge"
+[1:source]: https://www.curseforge.com/kerbal/ksp-mods/eterno-rest-2000-space-coffin-continued "CurseForge"
+[1:thread]: https://www.curseforge.com/kerbal/ksp-mods/eterno-rest-2000-space-coffin-continued "KSP Forum"
 
-[MOD:0:dnload]: https://www.curseforge.com/kerbal/ksp-mods/eterno-rest-2000-space-coffin-continued "CurseForge"
-[MOD:0:source]: https://www.curseforge.com/kerbal/ksp-mods/eterno-rest-2000-space-coffin-continued "CurseForge"
-[MOD:0:thread]: https://www.curseforge.com/kerbal/ksp-mods/eterno-rest-2000-space-coffin-continued "CurseForge"
+[0:dnload]: https://www.curseforge.com/kerbal/ksp-mods/eterno-rest-2000-space-coffin-continued "CurseForge"
+[0:source]: https://www.curseforge.com/kerbal/ksp-mods/eterno-rest-2000-space-coffin-continued "CurseForge"
+[0:thread]: https://www.curseforge.com/kerbal/ksp-mods/eterno-rest-2000-space-coffin-continued "CurseForge"
 
 <!--- license provenance -->
 [LIC:0:url]: http://unlicense.org/ "Unilicense"
@@ -187,11 +187,11 @@ parts, config
 [ckan:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/EternoRest2000/master/json/ckan.json "CKAN"
 
 <!--- release links -->
-[CURSFG:url]: https://www.curseforge.com/kerbal/ksp-mods/EternoRest2000 "Curseforge"
-[CURSFG:shd]: https://img.shields.io/badge/CurseForge-Link-CCFF00.svg?labelColor=6441A4&style=plastic&logo=curseforge "Curseforge"
+[C:url]: https://www.curseforge.com/kerbal/ksp-mods/EternoRest2000 "Curseforge"
+[C:shd]: https://img.shields.io/badge/CurseForge-Link-CCFF00.svg?labelColor=6441A4&style=plastic&logo=curseforge "Curseforge"
 
-[GITHUB:url]: https://github.com/zer0Kerbal/EternoRest2000/ "GitHub"
-[GITHUB:shd]: https://img.shields.io/badge/Github-Link-CCFF00.svg?labelColor=181717&style=plastic&logo=github "GitHub"
+[G:url]: https://github.com/zer0Kerbal/EternoRest2000/ "GitHub"
+[G:shd]: https://img.shields.io/badge/Github-Link-CCFF00.svg?labelColor=181717&style=plastic&logo=github "GitHub"
 
 [SPCDCK:url]: http://spacedock.info/mod/3126 "SpaceDock"
 [SPCDCK:shd]:  https://img.shields.io/badge/SpaceDock-Link-CCFF00.svg?labelColor=181717&style=plastic&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE5LjAuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCA1MDAgNTAwIiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCA1MDAgNTAwOyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+Cgkuc3Qwe2ZpbGw6IzFBMUExQTt9Cgkuc3Qxe2ZpbGw6IzA1Nzg5Mzt9Cgkuc3Qye2ZpbGw6IzA3QUNEMjt9Cjwvc3R5bGU+CjxwYXRoIGlkPSJYTUxJRF8xXyIgY2xhc3M9InN0MCIgZD0iTTQwMCwwLjZIMTAwYy01NSwwLTEwMCw0NS0xMDAsMTAwVjQwMGMwLDU1LDQ1LDEwMCwxMDAsMTAwaDMwMGM1NSwwLDEwMC00NSwxMDAtMTAwVjEwMC42CglDNTAwLDQ1LjYsNDU1LDAuNiw0MDAsMC42eiIvPgo8ZyBpZD0iWE1MSURfNl8iPgoJPGcgaWQ9IlhNTElEXzlfIj4KCQk8cGF0aCBpZD0iWE1MSURfMTdfIiBjbGFzcz0ic3QxIiBkPSJNMTgzLjMsMTY1LjljNi40LTMuNiwxNi45LTMuNiwyMy4zLDBMNDY3LjQsMzE0YzYuNCwzLjYsNi40LDkuNiwwLDEzLjJMMjA2LjYsNDc0LjQKCQkJYy02LjQsMy42LTE3LjcsNi42LTI1LDYuNmgtNDQuOGMtNy40LDAtOC4xLTMtMS43LTYuNmwyNjEtMTQ3LjJjNi40LTMuNiw2LjQtOS42LDAtMTMuMkwxNzEsMTg2Yy02LjQtMy42LTYuNC05LjYsMC0xMy4yCgkJCUwxODMuMywxNjUuOXoiLz4KCTwvZz4KCTxnIGlkPSJYTUxJRF84XyI+CgkJPHBhdGggaWQ9IlhNTElEXzE2XyIgY2xhc3M9InN0MiIgZD0iTTMxOC44LDE5Yy03LjQsMC0xOC42LDIuOC0yNSw2LjRMMzMsMTczLjRjLTYuNCwzLjYtNi40LDkuNSwwLDEzLjFsMjYwLjcsMTQ3LjEKCQkJYzYuNCwzLjYsMTYuOSwzLjYsMjMuMywwbDEyLjMtN2M2LjQtMy42LDYuNC05LjUsMC0xMy4ybC0yMjUuMS0xMjdjLTYuNC0zLjYtNi40LTkuNSwwLTEzLjJMMzY1LjYsMjUuNGM2LjQtMy42LDUuNi02LjQtMS43LTYuNAoJCQlIMzE4Ljh6Ii8+Cgk8L2c+CjwvZz4KPC9zdmc+Cg==  "SpaceDock"
@@ -257,7 +257,7 @@ parts, config
 
 #### Connect with me
 
-Track progress: issues [here][MOD:issue] and projects [here](https://github.com/zer0Kerbal/EternoRest2000/projects/) along with **[The Short List](https://github.com/users/zer0Kerbal/projects/27)**
+Track progress: issues [here][issue] and projects [here](https://github.com/zer0Kerbal/EternoRest2000/projects/) along with **[The Short List](https://github.com/users/zer0Kerbal/projects/27)**
 
 [<img align="left" alt="zer0Kerbal | kerbalspaceprogram.com" width="32px" src="https://cdn.icon-icons.com/icons2/1381/PNG/32/kerbalspaceprogram_93898.png" />][zer0Kerbal] [<img align="left" alt="zer0Kerbal | CurseForge" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/curseforge.svg" />][curseforge] [<img align="left" alt="zer0Kerbal | reddit" width="32px" src="https://cdn.icon-icons.com/icons2/1945/PNG/512/iconfinder-reddit-4661631_122483.png" />][reddit] [<img align="left" alt="zer0Kerbal | Patreon" width="32px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/patreon_logo_icon_147253.png" />][PATREON:url] [<img align="left" alt="zer0Kerbal | YouTube" width="32px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Youtube_icon-icons.com_66802.png" />][youtube] [<img align="left" alt="zer0Kerbal | Twitch" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/twitch_logo_icon_170383.png" />][twitch] [<img align="left" alt="zer0Kerbal | PayPal" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/paypal_logo_icon_168055.png" />][PAYPAL:url] [<img align="left" alt="zer0Kerbal | Buy Me a Coffee" width="32px" src="https://www.buymeacoffee.com/assets/img/bmc-meta-new/new/favicon.ico" />][BMCC:url] [<img align="left" alt="zer0Kerbal | Twitter" width="32px" src="https://cdn.icon-icons.com/icons2/836/PNG/32/Twitter_icon-icons.com_66803.png" />][twitter]</br>
 
